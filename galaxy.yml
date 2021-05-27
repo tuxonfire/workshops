@@ -38,8 +38,10 @@ tags: []
 dependencies:
   "awx.awx": "*"    # note: "*" selects the highest version available
   "amazon.aws": "==1.5.0"
+  "ansible.netcommon": "==2.0.2"
   "community.aws": "==1.5.0"
   "community.crypto": "==1.6.2"
+  "junipernetworks.junos": "==2.1.0"
 
 
 # The URL of the originating SCM repository
