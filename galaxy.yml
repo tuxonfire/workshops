@@ -39,6 +39,7 @@ dependencies:
   "awx.awx": "*"    # note: "*" selects the highest version available
   "amazon.aws": "==1.5.0"
   "ansible.netcommon": "==2.0.2"
+  "ansible.product_demos": "==1.2.5"
   "community.aws": "==1.5.0"
   "community.crypto": "==1.6.2"
   "f5networks.f5_modules": "==1.9.0"
